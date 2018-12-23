@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Magento 2 Connector</string>
+    <string name="site_url">Site URL</string>
+    <string name="access_token">Access Token</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_select_period">Select Period</string>
+    <string name="button_get_all_reports">Get All Reports</string>
+    <string name="add_site">Add Site</string>
+    <string name="close">Close</string>
+    <string name="report_response_row">%1$s</string>
+</resources>

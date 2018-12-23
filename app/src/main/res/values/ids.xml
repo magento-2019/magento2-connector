@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="siteUrl"/>
+    <item type="id" name="accessToken"/>
+    <item type="id" name="submitSiteButton"/>
+    <item type="id" name="getAllReports"/>
+    <item type="id" name="selectPeriod"/>
+    <item type="id" name="calendar"/>
+    <item type="id" name="apiList"/>
+    <item type="id" name="reportResponseHeader"/>
+</resources>
